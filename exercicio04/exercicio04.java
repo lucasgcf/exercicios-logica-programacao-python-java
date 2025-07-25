@@ -20,5 +20,7 @@ public class exercicio04{
     System.out.println("");
     System.out.printf("O dobro de %.2f é %.2f, sua terça parte é %.2f.", 
     number, numberDouble, numberThirdPart);
+
+    sc.close();
   }
 }
